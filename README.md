@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 -->
 
 ``` 
-git init
+<!--git init
 git remote add origin https://...
 git pull origin master
 git add .  或者 git add 文件名
 git status
 git commit -m "上传文件的注释"
 git push origin master
+-->
